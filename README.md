@@ -146,7 +146,6 @@ SELECT * FROM audit_logs;`
 **Logs & Debugging**
 
 1.[x] View API Logs
-
    `cat logs/bank_app.log`
 
 2.[x] Logs all transactions and errors.
