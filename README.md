@@ -158,8 +158,8 @@ SELECT * FROM audit_logs;`
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Future Improvements**
-2. [x] Kubernetes Deployment
-3. [x] Monitoring (Grafana + Prometheus)
-4. [x] More security features (Authentication, Rate limiting)
+2.[x] Kubernetes Deployment
+3.[x] Monitoring (Grafana + Prometheus)
+4.[x] More security features (Authentication, Rate limiting)
 
    
